@@ -1,7 +1,7 @@
-using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.IO;
+using System;
 
 /*
 * * * * * * * * * * * * * * * * * * *
@@ -9,6 +9,9 @@ using System.IO;
 *                                   *
 *       Nivel 27 - Uruguay          *
 * * * * * * * * * * * * * * * * * * * 
+*
+* POR SOLUCIONAR: DURACION DEL WAV MAYOR AL DE LA CANCION
+
 */
 namespace ITChallenge
 {
@@ -42,7 +45,6 @@ namespace ITChallenge
             //Pasamos la lista a array para poder exportar en wav
             double[] onda = lista.ToArray();
             //exportamos pasando la onda, el tamaño y la frecuencia (en la mayoria de los casos es 441000, en este tambien
-            //POR ARREGLAR: cambiar onda.length -> El audio dura 3min y el wav queda de 10min
             SaveIntoStream(onda, onda.Length, 44100);
         }
         //INICIO CODIGO AJENO
