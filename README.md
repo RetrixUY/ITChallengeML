@@ -1,6 +1,5 @@
 # ITChallengeML
 Algunas de mis soluciones para el ITChallenge 2017 de MercadoLibre.com
-Voy Subiendo a medida que comento y dejo "presentable" el codigo
 ------------------------------------------------------------------------------------------------------------------
 
 #### Level 27 - Uruguay - Ciudad Perdida:
@@ -21,8 +20,8 @@ Lamentablemente aún no hemos podido descifrarlo, pero como en Mercado Libre dis
 
 **Solucion (A Medias):** 
 1. Compila level26.cs para obtener el morse de la imagen
-2. Traduce el Morse: morsecode.scphillips.com/translator.html para obtener la conversacion entre 2 barcos
-3. Convierte el Hexadecimal a ascii: www.rapidtables.com/convert/number/hex-to-ascii.htm para obtener otra parte de la conversacion
+2. Traduce el Morse: https://morsecode.scphillips.com/translator.html para obtener la conversacion entre 2 barcos
+3. Convierte el Hexadecimal a ascii: http://www.rapidtables.com/convert/number/hex-to-ascii.htm para obtener otra parte de la conversacion
 4. Decodifica el base64: https://www.base64decode.org/ para obtener la ultima parte de la conversacion y el problema final
 5. Prueba suerte con el problema matematico (yo no pude resolverlo)
 
