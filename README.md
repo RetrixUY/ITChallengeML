@@ -1,6 +1,8 @@
 # ITChallengeML
 Algunas de mis soluciones para el ITChallenge 2017 de MercadoLibre.com
 
+------------------------------------------------------------------------------------------------------------------
+
 #### Level 27 - Uruguay:
 _Un equipo de científicos norteamericanos, descubrió un secreto que podría cambiar el curso de la humanidad._
 
