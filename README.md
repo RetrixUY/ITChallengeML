@@ -4,15 +4,11 @@ Algunas de mis soluciones para el ITChallenge 2017 de MercadoLibre.com
 ------------------------------------------------------------------------------------------------------------------
 
 #### Level 27 - Uruguay:
-_Un equipo de científicos norteamericanos, descubrió un secreto que podría cambiar el curso de la humanidad._
-
-_Se cree que encontraron la ciudad perdida de la Atlántida._
-
-_Durante una expedición en la Antártida, descubrieron una capa de hielo que al ser penetrada por rayos ultravioletas genera una imagen misteriosa._
-
-_Debajo de la capa de hielo, hay una estatua de una reina y runas que permiten formar una frase .... al parecer, de colocar la frase correcta, se abriría la entrada al mundo perdido._
-
-_Debajo de la estatua se lee claramente: "¿Cuál es el nombre del canto de la reina?"_
+_Un equipo de científicos norteamericanos, descubrió un secreto que podría cambiar el curso de la humanidad.
+Se cree que encontraron la ciudad perdida de la Atlántida.
+Durante una expedición en la Antártida, descubrieron una capa de hielo que al ser penetrada por rayos ultravioletas genera una imagen misteriosa.
+Debajo de la capa de hielo, hay una estatua de una reina y runas que permiten formar una frase .... al parecer, de colocar la frase correcta, se abriría la entrada al mundo perdido.
+Debajo de la estatua se lee claramente: "¿Cuál es el nombre del canto de la reina?"_
 
 **Solucion: Compila level27.cs y se generara un .wav, el nombre de la cancion es la solucion**
 
@@ -20,8 +16,8 @@ _Debajo de la estatua se lee claramente: "¿Cuál es el nombre del canto de la r
 
 #### Level 26 - Canada (Solucion A Medias)
 
-_Hemos encontrado en un libro antiguo una hoja que luego de procesarla digitalmente contiene algo que parece ser tener algún sentido._
-_Lamentablemente aún no hemos podido descifrarlo, pero como en Mercado Libre disfrutamos mucho los desafíos, quisiéramos revelar el misterio. Vos te crees capaz de enfrentarlo?_
+_Hemos encontrado en un libro antiguo una hoja que luego de procesarla digitalmente contiene algo que parece ser tener algún sentido.
+Lamentablemente aún no hemos podido descifrarlo, pero como en Mercado Libre disfrutamos mucho los desafíos, quisiéramos revelar el misterio. Vos te crees capaz de enfrentarlo?_
 
 **Solucion (A Medias):** 
 1. Compila level26.cs para obtener el morse de la imagen
@@ -33,17 +29,17 @@ _Lamentablemente aún no hemos podido descifrarlo, pero como en Mercado Libre di
 ------------------------------------------------------------------------------------------------------------------
 
 #### Level 18 - Brasil
-_Hoy existen muchos lenguajes de programacion disponibles entre ellos hay un subgrupo muy particular conocidos como "Lenguajes exoticos" por su naturaleza particular, quizas no son los mas útiles del mundo pero nos permiten explorar nuevas formas de pensar._
-_Nos llegó el siguiente código escrito en algún extraño lenguaje de programación, con la peculiar característica de que durante su interpretación el programa se va desplazando físicamente por el código, con operadores de movimiento (<, >, ^, v):_
+_Hoy existen muchos lenguajes de programacion disponibles entre ellos hay un subgrupo muy particular conocidos como "Lenguajes exoticos" por su naturaleza particular, quizas no son los mas útiles del mundo pero nos permiten explorar nuevas formas de pensar.
+Nos llegó el siguiente código escrito en algún extraño lenguaje de programación, con la peculiar característica de que durante su interpretación el programa se va desplazando físicamente por el código, con operadores de movimiento (<, >, ^, v):_
 ```
 52*>: :000p1>\:00g-#v _ v
   v 2-1*2p00 :+1g00\<   $
   > **00g1+/^v,*84      <
   _^#<`  9:+1>#,.#+5<   @
 ```
-Nos gustaría saber cual es el resultado una vez ejecutado correctamente.
+_Nos gustaría saber cual es el resultado una vez ejecutado correctamente._
 
-***Solucion: Conocia el lenguaje a pesar de ser bastante exotico, se llama Befunge, utilize un interprete online:
+**Solucion: Conocia el lenguaje a pesar de ser bastante exotico, se llama Befunge, utilize un interprete online:**
 http://qiao.github.io/javascript-playground/visual-befunge93-interpreter/
 
 ------------------------------------------------------------------------------------------------------------------
